@@ -5,6 +5,15 @@ A visually rich, multi-section chocolate-themed website designed using **HTML5**
 
 ---
 
+## 🔍 Live Preview
+
+> _Add a link here if hosted on GitHub Pages or Netlify_  
+> _Or use the video in the Issues tab as a demo link:_
+
+🎥 [Click here to watch the demo](https://github.com/yasmin146-s/-Chocolate-Themed-Web-Design-Project/issues/1)
+
+-
+
 ## 🌟 Features
 
 - 🔗 Fixed navigation bar with dropdown menu  
